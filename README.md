@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently a 3rd-year Ph.D. student at the Department of Computer Science, The University of Tokyo.
-- 🔭 I’m currently working on low-level vision problems, especially image/video restoration and enhancement.
+- 🔭 My current research interests include computational photography, machine/deep learning, human-computer interaction.
 - :people_holding_hands: Any collaboration is more than welcome!
 - :envelope: Email: zhong@is.s.u-tokyo.ac.jp
 - :watermelon: Website: https://zzh-tech.github.io/
