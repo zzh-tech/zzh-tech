@@ -1,7 +1,9 @@
 **Hi there** 👋
 
 - 🌱 I’m currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/) (AI for Sports team).
-- 🔭 My current research interests include image/video restoration and enhancement, and 4D motion reconstruction and editing.
+- 🔭 My current research interests:
+  - _image/video restoration and enhancement_
+  - _4D motion reconstruction and editing_
 - :envelope: Email: zhongzhihang [at] pjlab.org.cn
 - :watermelon: Website: https://zzh-tech.github.io/
 
