@@ -9,7 +9,7 @@
 - :watermelon: Website: https://zzh-tech.github.io/
 
 **_We are looking for_**  
-  - **highly self-motivated joint Ph.D. students (SJTU, FDU, ZJU, USTC等联合培养博士);**
+  - **highly self-motivated joint Ph.D. students (上海交大, 复旦, 浙大, 中科大等联合培养博士);**
   - **interns with strong background and publications;**
   - **remote collaborators with relevant and interesting ideas (we can provide sufficient A100s and 4090s, as well as specialized equipment for <a href="https://dna-rendering.github.io/#about" target="_blank">3D data acquisition</a>).**
 
