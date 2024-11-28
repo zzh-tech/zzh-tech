@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/).
 - 🔭 My current research interests include:
-  - **_4D motion modeling_**
-  - **_AI for sports_**
-  - _image/video restoration and enhancement_
+  - **_Neural Rendering (NeRF/3DGS)_**
+  - **_AI for Sports_**
+  - _Low-level Vision_
 - :envelope: Email: zhongzhihang [at] pjlab.org.cn
 - :watermelon: Website: https://zzh-tech.github.io/
 
