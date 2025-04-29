@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently a researcher at [Shanghai AI Lab](https://www.shlab.org.cn/).
 - 🔭 My current research interests include:
-  - **_Neural Rendering_**
-  - **_AI for Sports_**
+  - **_Spatial Intelligence_**
+  - **_Human-centric Computer Vision_**
   - _Computational Photography_
 - :envelope: Email: zhongzhihang [at] pjlab.org.cn
 - :watermelon: Website: https://zzh-tech.github.io/
