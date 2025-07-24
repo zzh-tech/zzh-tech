@@ -10,7 +10,7 @@
 
 **_We are looking for_**  
   - **research interns in 3D/4D Peception, Generation and Editing;**
-  - **research interns for Spatial Intelligence based on Multimodal Large Models;**
+  - **research interns in Spatial Intelligence based on Multimodal Large Models;**
   - **remote collaborators with relevant research interests.**
 
 :point_right: *If you are interested, please email me with your Resume ;-)*
