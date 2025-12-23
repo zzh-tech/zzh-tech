@@ -10,4 +10,4 @@
 - :watermelon: Website: https://zzh-tech.github.io/
 
 **_🔥 We are looking for PhD students and RAs!_**  
-:point_right: *If you are interested, please email me with your CV and a brief description of your research interests;-)*
+:point_right: *If you are interested, please email me with your CV and a brief description of your research interests ;-)*
