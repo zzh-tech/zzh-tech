@@ -9,5 +9,5 @@
 - :envelope: Email: zzh-tech [at] gmail.com
 - :watermelon: Website: https://zzh-tech.github.io/
 
-**_🔥 We are looking for PhD students and RAs!_**  
+**_🔥 We are looking for PhD students (26 Fall 普博，以及欢迎有创智、中关村、河套学院名额的学生联系) and RAs!_**  
 :point_right: *If you are interested, please email me with your CV and a brief description of your research interests ;-)*
