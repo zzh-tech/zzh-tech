@@ -2,9 +2,8 @@
 
 - 🌱 I am an Associate Professor at the School of Artificial Intelligence, Shanghai Jiao Tong University
 - 🔭 My current research interests focus on **_Spatial Intelligence_**:
-  - **_Neural Rendering (3DGS)_**
-  - **_Spatial Agent (VLM-based)_**
-  - _Feed-forward 3D Vision Tasks_
+  - **_"Spatial": Neural Rendering (3DGS)_**
+  - **_"Intelligence": Spatial Agent (VLM)_**
 - :envelope: Email: zhongzhihang [at] sjtu.edu.cn
 - :watermelon: Website: https://zzh-tech.github.io/
 - :rocket: Lab: https://github.com/Visionary-Laboratory
