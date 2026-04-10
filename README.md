@@ -8,5 +8,5 @@
 - :watermelon: Website: https://zzh-tech.github.io/
 - :rocket: Lab: https://github.com/Visionary-Laboratory
 
-**_🔥 We are looking for Master students, PhD students (27保研直博，以及欢迎有创智、中关村、河套学院名额的学生联系), interns and RAs!_**  
+**_🔥 Looking for Master students, PhD students (27保研直博，以及欢迎有创智、中关村、河套学院名额的学生联系), interns and RAs!_**  
 :point_right: *If you are interested, please email me with your Resume, a brief description of your research interests and proposals ;-)*
