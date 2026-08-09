@@ -8,5 +8,5 @@
 - :watermelon: Website: https://zzh-tech.github.io/
 - :rocket: Lab: https://github.com/Visionary-Laboratory
 
-**_🔥 Looking for Master students, PhD students, interns and RAs! (硕士博士申请请提前至少三个月联系，需要研究考核)_**  
+**_🔥 Looking for Master students, PhD students, interns and RAs! (硕士博士申请请提前至少半年联系，需要考核；实习可选上海 AI Lab 或 Kiri Engine；27级正常名额已满，有创智等额外名额可联系)_**  
 :point_right: *If you are interested, please email me with your Resume. (请标明申请类别和感兴趣的研究方向)*
